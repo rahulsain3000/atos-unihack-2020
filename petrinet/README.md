@@ -1,1 +1,3 @@
-Hello, this is very simple Petri Net simulation program that was developed with Raphael SVG library. Below you can find tutorial video how to use it, but also you can jump directly to the point because it pretty straight forward and intuitive.
+Hello, this is very simple Petri Net simulation program that was developed with Raphael SVG library. 
+
+The logic behind the code was taken by various resources online(WIKI).
